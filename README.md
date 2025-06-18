@@ -11,7 +11,7 @@
 
 ## 🔮 Demo
 
-🚀 **Live App**: [Launch on Streamlit Cloud]([https://your-streamlit-url](https://bank-customer-churn-prediction-v4kgowkvuazdksvkzdsvbo.streamlit.app/))
+🚀 **Live App**: [Launch on Streamlit Cloud](https://your-streamlit-url](https://bank-customer-churn-prediction-v4kgowkvuazdksvkzdsvbo.streamlit.app/)
 
 📽️ **Video Walkthrough**: [YouTube Demo](https://youtube.com/your-demo-link)
 
