@@ -17,7 +17,7 @@ st.set_page_config(page_title="Bank Customer Churn Prediction", layout="centered
 
 # ---------------- LOAD MODEL ----------------
 # Set path to models
-model = pickle.load(open("bank_customer_chrun.sav"), 'rb'))
+model = pickle.load(open("bank_customer_chrun.sav"), 'rb')
 
 # ---------------- VISITOR COUNTER ----------------
 counter_file = "visitor_data.pkl"
