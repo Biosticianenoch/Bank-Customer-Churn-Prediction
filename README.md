@@ -11,7 +11,7 @@
 
 ## 🔮 Demo
 
-🚀 **Live App**: [Launch on Streamlit Cloud](https://your-streamlit-url)
+🚀 **Live App**: [Launch on Streamlit Cloud]([https://your-streamlit-url](https://bank-customer-churn-prediction-v4kgowkvuazdksvkzdsvbo.streamlit.app/))
 
 📽️ **Video Walkthrough**: [YouTube Demo](https://youtube.com/your-demo-link)
 
@@ -130,11 +130,9 @@ G --> H[Save model with Pickle]
 
 ## 🌐 Deployment
 
-You can deploy this app to:
+The app has been deployed on streamlit cloud to make real world predictions
+
 - [Streamlit Cloud](https://streamlit.io/cloud)
-- [Vercel](https://vercel.com/)
-- [Render](https://render.com/)
-- [Hugging Face Spaces](https://huggingface.co/spaces)
 
 ---
 
